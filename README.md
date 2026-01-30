@@ -3,7 +3,7 @@
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para centralizar minha trajetória, habilidades técnicas e experiências no ecossistema de desenvolvimento de software, com foco especial em **Java Back-end**.
 
 ## 🔗 Link de Acesso
-Você pode visualizar o projeto online aqui: [**otaviohfi.github.io/portfolio**](https://otaviohfi.github.io/portfolio/)
+Você pode visualizar o projeto online aqui: [**otaviohfi.github.io/portfolio**](https://otavioinacio.github.io/portfolio/)
 
 ---
 
